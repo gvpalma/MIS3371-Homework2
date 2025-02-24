@@ -1,4 +1,4 @@
-/* 
+/* DOCTYPE JS>
 Name:Gabriela Palma
 File name: homework2.js
 Date Created: February 24
